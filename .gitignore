@@ -1,0 +1,10 @@
+# vim
+*.swp
+
+# binaries
+*.bin
+*.lib
+*.o
+
+# build
+**/build
